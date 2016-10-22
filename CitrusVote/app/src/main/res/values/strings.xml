@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_make_vote">MakeVote</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings for Create Poll Activity -->
+    <string name="enter_question">Enter the question</string>
+    <string name="submit_question">Submit Question</string>
+    <string name="enter_option">Enter Option</string>
+    <string name="new_option">Create New Option</string>
+    <string name="submit_options">Submit Options</string>
+
+    <!-- Strings for Make Vote Activity -->
+    <string name="create_poll">Create Poll</string>
+    <string name="join_poll">Join Poll</string>
+
+    <!-- Strings for Voting Activity -->
+    <string name="vote_button">Vote</string>
+
+    <!-- Strings for Post Poll Activity -->
+    <string name="text_thank">THANK</string>
+    <string name="text_you">YOU</string>
+    <string name="text_for">FOR</string>
+    <string name="text_voting">VOTING</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="join_poll1">Join Another Poll</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>
