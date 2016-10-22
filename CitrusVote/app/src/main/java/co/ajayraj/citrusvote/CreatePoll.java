@@ -1,7 +1,7 @@
-package com.example.kenne.myapplication;
+package co.ajayraj.citrusvote;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 public class CreatePoll extends AppCompatActivity {
 
