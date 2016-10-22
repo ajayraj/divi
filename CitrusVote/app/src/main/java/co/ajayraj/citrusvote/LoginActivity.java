@@ -1,4 +1,4 @@
-package co.ajayraj.citrusvote.;
+package co.ajayraj.citrusvote;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;

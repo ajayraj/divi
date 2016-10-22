@@ -1,4 +1,4 @@
-package co.ajayraj.citrusvote.;
+package co.ajayraj.citrusvote;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
