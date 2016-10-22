@@ -1,4 +1,4 @@
-package com.example.kenne.myapplication;
+package co.ajayraj.citrusvote;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
