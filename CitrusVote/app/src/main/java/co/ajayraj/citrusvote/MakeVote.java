@@ -1,9 +1,7 @@
 package co.ajayraj.citrusvote;
 
-import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-
-import co.ajayraj.citrusvote.R;
+import android.os.Bundle;
 
 public class MakeVote extends AppCompatActivity {
 

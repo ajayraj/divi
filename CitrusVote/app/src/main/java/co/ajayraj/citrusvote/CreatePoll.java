@@ -1,7 +1,7 @@
 package co.ajayraj.citrusvote;
 
-import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
 
 public class CreatePoll extends AppCompatActivity {
 
